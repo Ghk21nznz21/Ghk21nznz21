@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gonçalo Almeida
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Computer Vision
+- 🌱 I’m currently learning Artificial Inteligence 
+- 📫 Reach me in goncalo1999almeida@gmail.com
