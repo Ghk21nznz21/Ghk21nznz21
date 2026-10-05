@@ -17,5 +17,3 @@ Builder based in Lisbon. I studied at ISCTE and build software end to end — fu
 
 Most of my recent work — a digital-identity / health-data platform and some web3 apps — lives in private repos.
 
-## Reach me
-📫 goncalo1999almeida@gmail.com
