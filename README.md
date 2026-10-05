@@ -15,5 +15,5 @@ Builder based in Lisbon. I studied at ISCTE and build software end to end — fu
 - **[Out-of-the-Box](https://github.com/Ghk21nznz21/Out-of-the-Box)** — a mobile-friendly party-games web app.
 - **[pygames](https://github.com/Ghk21nznz21/pygames)** and **[sudoku-backtracking](https://github.com/Ghk21nznz21/sudoku-backtracking)** — some of my first solo projects, from when I was learning to code.
 
-Most of my recent work — a digital-identity / health-data platform and some web3 apps — lives in private repos.
+Most of my recent work was done in Web3 private projects and working for Humanos https://www.humanos.tech/
 
